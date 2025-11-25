@@ -12,8 +12,8 @@ importers:
         specifier: ^2.6.2
         version: 2.6.2
       '@meridian-ui/meridian':
-        specifier: ^1.0.5
-        version: 1.0.5(@types/react@19.2.6)(@vis.gl/react-google-maps@1.7.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+        specifier: file:../../../meridian-prerelease/meridian-ui-meridian-1.0.5.tgz
+        version: file:../../../meridian-prerelease/meridian-ui-meridian-1.0.5.tgz(@types/react@19.2.6)(@vis.gl/react-google-maps@1.7.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@vis.gl/react-google-maps':
         specifier: ^1.5.5
         version: 1.7.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
@@ -629,8 +629,9 @@ packages:
   '@jridgewell/trace-mapping@0.3.9':
     resolution: {integrity: sha512-3Belt6tdc8bPgAtbcmdtNJlirVoTmEb5e2gC94PnkwEW9jI6CAHUeoG85tjWP5WquqfavoMtMwiG4P926ZKKuQ==}
 
-  '@meridian-ui/meridian@1.0.5':
-    resolution: {integrity: sha512-9RMbBdwqzIhaOWl4hP4SSLlVz3A88D0EC2IFgC/rjo8TLXa7cN3M6aAtQzYb7eSOc2i4IxuDc0CZr/yLEuUvXg==}
+  '@meridian-ui/meridian@file:../../../meridian-prerelease/meridian-ui-meridian-1.0.5.tgz':
+    resolution: {integrity: sha512-epXTokO4+16nNpe301oQ1l8g4zzQ03g+EbbB8EFpQ1fCAc9I0BKO5/uyM1SkrfCQxohG6ofYw3NnJBenNSs66w==, tarball: file:../../../meridian-prerelease/meridian-ui-meridian-1.0.5.tgz}
+    version: 1.0.5
     peerDependencies:
       '@vis.gl/react-google-maps': ^1.x.x
       react: ^18.0.0 || ^19.0.0
@@ -2148,7 +2149,7 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.5
 
-  '@meridian-ui/meridian@1.0.5(@types/react@19.2.6)(@vis.gl/react-google-maps@1.7.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@meridian-ui/meridian@file:../../../meridian-prerelease/meridian-ui-meridian-1.0.5.tgz(@types/react@19.2.6)(@vis.gl/react-google-maps@1.7.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       '@vis.gl/react-google-maps': 1.7.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       interactjs: 1.10.27
