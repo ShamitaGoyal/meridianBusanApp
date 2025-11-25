@@ -13,6 +13,7 @@
   "dependencies": {
     "@googlemaps/markerclusterer": "^2.6.2",
     "@meridian-ui/meridian": "^1.0.5",
+    "@vercel/analytics": "^1.5.0",
     "@vis.gl/react-google-maps": "^1.5.5",
     "@xyflow/react": "^12.8.4",
     "firebase": "^12.5.0",
