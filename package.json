@@ -1,0 +1,40 @@
+{
+  "name": "uist25-demo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch-restaurants": "tsx scripts/fetch-restaurants.ts",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@googlemaps/markerclusterer": "^2.6.2",
+    "@meridian-ui/meridian": "file:../../../meridian-prerelease/meridian-ui-meridian-1.0.5.tgz",
+    "@vis.gl/react-google-maps": "^1.5.5",
+    "@xyflow/react": "^12.8.4",
+    "firebase": "^12.5.0",
+    "next": "15.4.6",
+    "node-fetch": "^3.3.2",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-icons": "^5.5.0",
+    "reactflow": "^11.11.4",
+    "remixicon": "^4.6.0",
+    "sass": "^1.93.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.12",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "daisyui": "^5.0.50",
+    "dotenv": "^17.2.1",
+    "tailwindcss": "^4.1.12",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.0.0",
+    "typescript": "^5.9.2"
+  }
+}

@@ -1,0 +1,1043 @@
+[
+  {
+    "location_id": "23143090",
+    "name": "Hapcheon Gukbap",
+    "distance": "0.7150411987388252",
+    "bearing": "northeast",
+    "address_obj": {
+      "street1": "235 Yongho-ro, Nam-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48593",
+      "address_string": "235 Yongho-ro, Nam-gu, Busan 48593 South Korea"
+    }
+  },
+  {
+    "location_id": "6384285",
+    "name": "Oryukdo Gawan",
+    "distance": "0.48491132330405806",
+    "bearing": "northeast",
+    "address_obj": {
+      "street1": "894-54, Yongho-dong, Nam-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "894-54, Yongho-dong, Nam-gu, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "26790279",
+    "name": "Han's Deli (Busan Oryukdo Skywalk)",
+    "distance": "0.8747152677518447",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "#111, Oryukdo-ro, Nam-gu, Busan",
+      "street2": "Within the SK View apartmetn complex",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48594",
+      "address_string": "#111, Oryukdo-ro, Nam-gu, Busan Within the SK View apartmetn complex, Busan 48594 South Korea"
+    }
+  },
+  {
+    "location_id": "17382451",
+    "name": "Gentz Bakery - SK Oryukdo",
+    "distance": "1.1853776988181879",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "85, Oryukdo-ro, Nam-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48594",
+      "address_string": "85, Oryukdo-ro, Nam-gu, Busan 48594 South Korea"
+    }
+  },
+  {
+    "location_id": "26269785",
+    "name": "P.ark Cafe & Bakery",
+    "distance": "1.9109937249480338",
+    "bearing": "southwest",
+    "address_obj": {
+      "street1": "180, Haeyang-ro 195beon-gil",
+      "street2": "Platform of ARK for Creators",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "180, Haeyang-ro 195beon-gil Platform of ARK for Creators, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "23968991",
+    "name": "Cafe 38.5",
+    "distance": "2.0206861532777216",
+    "bearing": "southwest",
+    "address_obj": {
+      "street1": "539, Taejong-ro, Yeongdo-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "49012",
+      "address_string": "539, Taejong-ro, Yeongdo-gu, Busan 49012 South Korea"
+    }
+  },
+  {
+    "location_id": "14159401",
+    "name": "Cheungchun Sikdang",
+    "distance": "2.173548896450435",
+    "bearing": "west",
+    "address_obj": {
+      "street1": "46-11, Jungri-ro, Yeongdo-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "49115",
+      "address_string": "46-11, Jungri-ro, Yeongdo-gu, Busan 49115 South Korea"
+    }
+  },
+  {
+    "location_id": "23968999",
+    "name": "P.ark Cafe & Bakery",
+    "distance": "1.9368968836402065",
+    "bearing": "southwest",
+    "address_obj": {
+      "street1": "180 Haeyang-ro 195beon-gil, Yeongdo-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "49013",
+      "address_string": "180 Haeyang-ro 195beon-gil, Yeongdo-gu, Busan 49013 South Korea"
+    }
+  },
+  {
+    "location_id": "13651595",
+    "name": "Carin Yeongdo Place",
+    "distance": "2.554264436103058",
+    "bearing": "west",
+    "address_obj": {
+      "street1": "16, Cheonghakdong-ro, Yeongdo-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "49084",
+      "address_string": "16, Cheonghakdong-ro, Yeongdo-gu, Busan 49084 South Korea"
+    }
+  },
+  {
+    "location_id": "23970520",
+    "name": "Grazie",
+    "distance": "2.576496567829929",
+    "bearing": "west",
+    "address_obj": {
+      "street1": "12 Cheonghakdong-ro, Yeongdo-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "49084",
+      "address_string": "12 Cheonghakdong-ro, Yeongdo-gu, Busan 49084 South Korea"
+    }
+  },
+  {
+    "location_id": "4084701",
+    "name": "Taejongdae Jjampong",
+    "distance": "4.058816355393025",
+    "bearing": "southwest",
+    "address_obj": {
+      "street1": "825, Taejong-ro, Yeongdo-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "49127",
+      "address_string": "825, Taejong-ro, Yeongdo-gu, Busan 49127 South Korea"
+    }
+  },
+  {
+    "location_id": "26342520",
+    "name": "Kyungsung 1972",
+    "distance": "1.5456620426540233",
+    "bearing": "northwest",
+    "address_obj": {
+      "street1": "Namgu, Suyeongro334gil, 29",
+      "street2": "2nd Floor",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48511",
+      "address_string": "Namgu, Suyeongro334gil, 29 2nd Floor, Busan 48511 South Korea"
+    }
+  },
+  {
+    "location_id": "14000098",
+    "name": "Lee's Kitchen",
+    "distance": "1.5965528473116084",
+    "bearing": "northwest",
+    "address_obj": {
+      "street1": "3, Yongho-ro 178beon-gil, Nam-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48568",
+      "address_string": "3, Yongho-ro 178beon-gil, Nam-gu, Busan 48568 South Korea"
+    }
+  },
+  {
+    "location_id": "21392148",
+    "name": "Gold Papa",
+    "distance": "1.3498138495839551",
+    "bearing": "northwest",
+    "address_obj": {
+      "street1": "558-47 Yongho 4-dong, Nam-gu",
+      "street2": "",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "",
+      "address_string": "558-47 Yongho 4-dong, Nam-gu, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "8970528",
+    "name": "Iga Korean Beef",
+    "distance": "2.125031917038499",
+    "bearing": "northwest",
+    "address_obj": {
+      "street1": "66-17, Bunpo-Ro",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "66-17, Bunpo-Ro, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "31392124",
+    "name": "Yakkong Milmyeon",
+    "distance": "1.8163071592124047",
+    "bearing": "northwest",
+    "address_obj": {
+      "street1": "Dongmyeong-Ro 145 Beon-Gil",
+      "street2": "80 1 Floor",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "Dongmyeong-Ro 145 Beon-Gil 80 1 Floor, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "9035437",
+    "name": "Haegung Steamed Monkfish",
+    "distance": "3.184536828355443",
+    "bearing": "northwest",
+    "address_obj": {
+      "street1": "71, Dongmyeong-ro 145beon-gil, Nam-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48578",
+      "address_string": "71, Dongmyeong-ro 145beon-gil, Nam-gu, Busan 48578 South Korea"
+    }
+  },
+  {
+    "location_id": "9443986",
+    "name": "Lounge o",
+    "distance": "0.0530315547753127",
+    "bearing": "west",
+    "address_obj": {
+      "street1": "45, Yongso-Ro",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "45, Yongso-Ro, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "8991847",
+    "name": "Hapcheon Pork Rice Soup",
+    "distance": "0.24407650725194496",
+    "bearing": "southwest",
+    "address_obj": {
+      "street1": "32, Jogakgongwon-Ro",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "32, Jogakgongwon-Ro, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "14116797",
+    "name": "Tokyo Tonkotsu",
+    "distance": "0.16243252807471503",
+    "bearing": "west",
+    "address_obj": {
+      "street1": "48, Yongso-ro, Nam-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48500",
+      "address_string": "48, Yongso-ro, Nam-gu, Busan 48500 South Korea"
+    }
+  },
+  {
+    "location_id": "14132345",
+    "name": "The Croissant",
+    "distance": "0.19663512662346486",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "56, Yongso-ro 21beon-gil, Nam-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48510",
+      "address_string": "56, Yongso-ro 21beon-gil, Nam-gu, Busan 48510 South Korea"
+    }
+  },
+  {
+    "location_id": "9344609",
+    "name": "O Tako",
+    "distance": "0.21076255634572783",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "51, Suyeong-ro322beon-Gil",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "51, Suyeong-ro322beon-Gil, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "25291433",
+    "name": "Funny Beer",
+    "distance": "0.2462399859932404",
+    "bearing": "northwest",
+    "address_obj": {
+      "street1": "60-6 Daeyeon-dong",
+      "street2": "1F Hyeseong Building, Nam-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "60-6 Daeyeon-dong 1F Hyeseong Building, Nam-gu, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "9336778",
+    "name": "Princess Ne Fist Rice",
+    "distance": "0.21237911051589978",
+    "bearing": "northwest",
+    "address_obj": {
+      "street1": "30, Yongso-Ro",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "30, Yongso-Ro, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "14860912",
+    "name": "2nd Floor 5649",
+    "distance": "0.28068160139715276",
+    "bearing": "southwest",
+    "address_obj": {
+      "street1": "217, UN-ro, Nam-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48501",
+      "address_string": "217, UN-ro, Nam-gu, Busan 48501 South Korea"
+    }
+  },
+  {
+    "location_id": "14801013",
+    "name": "Icheung Jib 564-9",
+    "distance": "0.28068160139715276",
+    "bearing": "southwest",
+    "address_obj": {
+      "street1": "217, UN-ro, Nam-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48501",
+      "address_string": "217, UN-ro, Nam-gu, Busan 48501 South Korea"
+    }
+  },
+  {
+    "location_id": "9113066",
+    "name": "Delicious Instant Gimbap House",
+    "distance": "0.34716129557649267",
+    "bearing": "west",
+    "address_obj": {
+      "street1": "108, UN pyeonghwa-ro 41beon-gil, Nam-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48506",
+      "address_string": "108, UN pyeonghwa-ro 41beon-gil, Nam-gu, Busan 48506 South Korea"
+    }
+  },
+  {
+    "location_id": "33085549",
+    "name": "Heongbada Yonghodonghoesjib Busansugseonghoe",
+    "distance": "1.1179761818468974",
+    "bearing": "west",
+    "address_obj": {
+      "street1": "145 W Square Building 1st Floor 1002",
+      "street2": "Nam-gu, Bunpo-ro",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "145 W Square Building 1st Floor 1002 Nam-gu, Bunpo-ro, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "33085550",
+    "name": "Jeongbada Yongho-dong Hoetjip Busan Sukseonghoe",
+    "distance": "1.1171131432201578",
+    "bearing": "west",
+    "address_obj": {
+      "street1": "145 W Square Building 1st Floor 1002",
+      "street2": "Nam-gu, Bunpo-ro",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "145 W Square Building 1st Floor 1002 Nam-gu, Bunpo-ro, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "25077427",
+    "name": "Jinsang",
+    "distance": "1.1532026217956723",
+    "bearing": "west",
+    "address_obj": {
+      "street1": "145, Pausong-ro, Nam-gu",
+      "street2": "# 1034-1036, 1/F, W Square Shopping Street",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "145, Pausong-ro, Nam-gu # 1034-1036, 1/F, W Square Shopping Street, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "25236740",
+    "name": "Bakeworks",
+    "distance": "1.2303787894320861",
+    "bearing": "west",
+    "address_obj": {
+      "street1": "25-2, Gwanganhaebyeon-ro 307beon-gil, Suyeong-gu",
+      "street2": "1F",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48290",
+      "address_string": "25-2, Gwanganhaebyeon-ro 307beon-gil, Suyeong-gu 1F, Busan 48290 South Korea"
+    }
+  },
+  {
+    "location_id": "27114913",
+    "name": "Greener Busan W Square",
+    "distance": "1.1935045021079012",
+    "bearing": "west",
+    "address_obj": {
+      "street1": "145 Bunpo-ro, Nam-gu, Busan",
+      "street2": "1F, 1085-ho",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "145 Bunpo-ro, Nam-gu, Busan 1F, 1085-ho, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "27110586",
+    "name": "Handasot",
+    "distance": "1.1935045021079012",
+    "bearing": "west",
+    "address_obj": {
+      "street1": "145 Bunpo-ro, Nam-gu",
+      "street2": "No. 1022 and 1023, 1st floor, W Square Building",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48515",
+      "address_string": "145 Bunpo-ro, Nam-gu No. 1022 and 1023, 1st floor, W Square Building, Busan 48515 South Korea"
+    }
+  },
+  {
+    "location_id": "8912569",
+    "name": "Vegenarang - Busan",
+    "distance": "1.2806379973661253",
+    "bearing": "west",
+    "address_obj": {
+      "street1": "9-32, Gwanganhaebyeon-ro 370beon-gil, Suyeong-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48280",
+      "address_string": "9-32, Gwanganhaebyeon-ro 370beon-gil, Suyeong-gu, Busan 48280 South Korea"
+    }
+  },
+  {
+    "location_id": "27934359",
+    "name": "Aria",
+    "distance": "1.8833152533862316",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "292 Haeundaehaebyeon-ro",
+      "street2": "2/F Grand Josun Busan",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "292 Haeundaehaebyeon-ro 2/F Grand Josun Busan, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "28113395",
+    "name": "Lounge & Bar",
+    "distance": "1.8906517168973704",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "292 Haeundae Beach Road, Middle East",
+      "street2": "Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "292 Haeundae Beach Road, Middle East Haeundae-gu, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "28113408",
+    "name": "Lounge & Bar",
+    "distance": "1.8906517168973704",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "Haeundae Beach Road 292",
+      "street2": "Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "Haeundae Beach Road 292 Haeundae-gu, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "27990028",
+    "name": "Palais De Chine",
+    "distance": "1.8896821758323725",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "292 Haeundae Haebyeonro",
+      "street2": "5th floor, Grand Josun Busan, Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48099",
+      "address_string": "292 Haeundae Haebyeonro 5th floor, Grand Josun Busan, Haeundae-gu, Busan 48099 South Korea"
+    }
+  },
+  {
+    "location_id": "12002414",
+    "name": "Coffee Bean Haeundae",
+    "distance": "1.8710841236868112",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "277, Haeundaehaebyeon-ro, Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48094",
+      "address_string": "277, Haeundaehaebyeon-ro, Haeundae-gu, Busan 48094 South Korea"
+    }
+  },
+  {
+    "location_id": "9003653",
+    "name": "Hollys Coffee",
+    "distance": "1.865532422207819",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "277, Haeundaehaebyeon-Ro",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "277, Haeundaehaebyeon-Ro, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "33020507",
+    "name": "Legendary Ribs Haeundae",
+    "distance": "1.8709742433417746",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "Haeundaehaebyeon-ro, 277",
+      "street2": "3rd Floor, Daom Building",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48094",
+      "address_string": "Haeundaehaebyeon-ro, 277 3rd Floor, Daom Building, Busan 48094 South Korea"
+    }
+  },
+  {
+    "location_id": "3943708",
+    "name": "Outback Steakhouse Haeundae",
+    "distance": "1.8968046504265408",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "627-1, U 1-dong, Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "612-821",
+      "address_string": "627-1, U 1-dong, Haeundae-gu, Busan 612-821 South Korea"
+    }
+  },
+  {
+    "location_id": "9996398",
+    "name": "Hands Coffee",
+    "distance": "1.892118052176779",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "46, Gunam-ro, Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48094",
+      "address_string": "46, Gunam-ro, Haeundae-gu, Busan 48094 South Korea"
+    }
+  },
+  {
+    "location_id": "6352878",
+    "name": "Coffee Mandalay",
+    "distance": "1.8886699716835829",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "46, Gunam-ro, Haeundae-gu",
+      "street2": "3F, Sunset Business Hotel",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48094",
+      "address_string": "46, Gunam-ro, Haeundae-gu 3F, Sunset Business Hotel, Busan 48094 South Korea"
+    }
+  },
+  {
+    "location_id": "18453773",
+    "name": "Snowing Cloud - Busan Haeundae Main Branch",
+    "distance": "1.827595343607025",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "120-30, Dalmaji-gil 117beonga-gil, Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48117",
+      "address_string": "120-30, Dalmaji-gil 117beonga-gil, Haeundae-gu, Busan 48117 South Korea"
+    }
+  },
+  {
+    "location_id": "28556941",
+    "name": "Edge993 Rooftop Bar",
+    "distance": "1.9368075351981873",
+    "bearing": "northwest",
+    "address_obj": {
+      "street1": "8 Dalmaji-Gil 62 Beon-Gil",
+      "street2": "Haeundae-Gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48098",
+      "address_string": "8 Dalmaji-Gil 62 Beon-Gil Haeundae-Gu, Busan 48098 South Korea"
+    }
+  },
+  {
+    "location_id": "28596220",
+    "name": "Edge993 Cafe",
+    "distance": "1.9368075351981873",
+    "bearing": "northwest",
+    "address_obj": {
+      "street1": "Dalmaji-gil 62beon-gil 78",
+      "street2": "Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48098",
+      "address_string": "Dalmaji-gil 62beon-gil 78 Haeundae-gu, Busan 48098 South Korea"
+    }
+  },
+  {
+    "location_id": "3531881",
+    "name": "Merciel",
+    "distance": "1.8548520675652602",
+    "bearing": "northwest",
+    "address_obj": {
+      "street1": "154 Dalmaji-gil 65beon-gil, Haeundae-gu",
+      "street2": "",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48117",
+      "address_string": "154 Dalmaji-gil 65beon-gil, Haeundae-gu, Busan 48117 South Korea"
+    }
+  },
+  {
+    "location_id": "9411908",
+    "name": "Mita Ki",
+    "distance": "1.8759156607289365",
+    "bearing": "northwest",
+    "address_obj": {
+      "street1": "139, Dalmati-Gil",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "139, Dalmati-Gil, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "9330755",
+    "name": "Pokim",
+    "distance": "1.876335106436166",
+    "bearing": "northwest",
+    "address_obj": {
+      "street1": "139, Dalmati-Gil",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "139, Dalmati-Gil, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "7738616",
+    "name": "Cola Mercato - Busan",
+    "distance": "1.8320047699618824",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "120-38, Dalmaji-gil 117beonga-gil, Haeundae-gu",
+      "street2": "5th & 6th Floor",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48117",
+      "address_string": "120-38, Dalmaji-gil 117beonga-gil, Haeundae-gu 5th & 6th Floor, Busan 48117 South Korea"
+    }
+  },
+  {
+    "location_id": "9245416",
+    "name": "Starbucks",
+    "distance": "1.8496053411509452",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "189, Dalmaji-gil, Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48117",
+      "address_string": "189, Dalmaji-gil, Haeundae-gu, Busan 48117 South Korea"
+    }
+  },
+  {
+    "location_id": "27706711",
+    "name": "Gowol",
+    "distance": "1.844227636708427",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "189 Dalmaji-gil, Haeundae-gu",
+      "street2": "4/f",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "189 Dalmaji-gil, Haeundae-gu 4/f, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "9081349",
+    "name": "East Sea Spicy Seafood Stew",
+    "distance": "1.851807200694796",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "189, Dalmati-Gil",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "189, Dalmati-Gil, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "13412653",
+    "name": "Irish Pub Peanuts",
+    "distance": "0.7477108282928153",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "112, Muhak-ro 9beon-gil, Suyeong-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48266",
+      "address_string": "112, Muhak-ro 9beon-gil, Suyeong-gu, Busan 48266 South Korea"
+    }
+  },
+  {
+    "location_id": "33141696",
+    "name": "Pili Pili",
+    "distance": "0.8056818280693244",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "94-3 Gwangan-dong",
+      "street2": "1st Floor",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48268",
+      "address_string": "94-3 Gwangan-dong 1st Floor, Busan 48268 South Korea"
+    }
+  },
+  {
+    "location_id": "33131613",
+    "name": "Pili Pili Busan",
+    "distance": "0.809266010031431",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "Gwangan-dong, 94-3",
+      "street2": "1st floor, Suyeong-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48268",
+      "address_string": "Gwangan-dong, 94-3 1st floor, Suyeong-gu, Busan 48268 South Korea"
+    }
+  },
+  {
+    "location_id": "17376076",
+    "name": "Salt Kitchen",
+    "distance": "0.8922760061111179",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "50-1, Gampo-ro, Suyeong-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48273",
+      "address_string": "50-1, Gampo-ro, Suyeong-gu, Busan 48273 South Korea"
+    }
+  },
+  {
+    "location_id": "28275883",
+    "name": "Nuoto",
+    "distance": "0.8090169485923515",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "Suyeong-ro 652Beon-gi",
+      "street2": "68-2 1st Floor",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "Suyeong-ro 652Beon-gi 68-2 1st Floor, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "12219223",
+    "name": "Howoo 111",
+    "distance": "0.81556245158561",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "111, Muhak-ro 49beon-gil, Suyeong-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48267",
+      "address_string": "111, Muhak-ro 49beon-gil, Suyeong-gu, Busan 48267 South Korea"
+    }
+  },
+  {
+    "location_id": "9045364",
+    "name": "Fresh Pork Cutlet",
+    "distance": "0.9799173876514873",
+    "bearing": "northeast",
+    "address_obj": {
+      "street1": "733, Suyeong-Ro",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "733, Suyeong-Ro, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "33409913",
+    "name": "Kujirasto Restaurant",
+    "distance": "0.8168224961671159",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "71 Muhak-ro 49 Beon-gil",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "71 Muhak-ro 49 Beon-gil, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "8932584",
+    "name": "7 Street Pizza",
+    "distance": "0.6447738848049279",
+    "bearing": "northeast",
+    "address_obj": {
+      "street1": "392, Yeonsu-ro, Suyeong-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48242",
+      "address_string": "392, Yeonsu-ro, Suyeong-gu, Busan 48242 South Korea"
+    }
+  },
+  {
+    "location_id": "9396424",
+    "name": "Mang Mi Handmade Noodles Soup",
+    "distance": "0.8179172257604979",
+    "bearing": "north",
+    "address_obj": {
+      "street1": "27, Yeonsu-ro275beon-Gil",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "27, Yeonsu-ro275beon-Gil, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "4117966",
+    "name": "Mongddeure Jhor",
+    "distance": "0.8691517357364323",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "1410, U1-dong, Haeundae-gu",
+      "street2": "#206, Daewoo Trump World Marine Sangga",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "1410, U1-dong, Haeundae-gu #206, Daewoo Trump World Marine Sangga, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "17696589",
+    "name": "Museubi Soba",
+    "distance": "1.250498255345179",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "19, Udong 1-ro, Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48088",
+      "address_string": "19, Udong 1-ro, Haeundae-gu, Busan 48088 South Korea"
+    }
+  },
+  {
+    "location_id": "17178564",
+    "name": "Kagawa Restaurant",
+    "distance": "1.2505677283238132",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "6, Udong 1-ro, Haeundae-gu",
+      "street2": "1F",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48087",
+      "address_string": "6, Udong 1-ro, Haeundae-gu 1F, Busan 48087 South Korea"
+    }
+  },
+  {
+    "location_id": "9037232",
+    "name": "Haeundae Rib Barbeque Restaurant",
+    "distance": "1.1143390654667908",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "333 Haeundaehaebyeon-ro",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48096",
+      "address_string": "333 Haeundaehaebyeon-ro, Busan 48096 South Korea"
+    }
+  },
+  {
+    "location_id": "16811904",
+    "name": "Han Eobuui Godeungeo Salang - Haeundae",
+    "distance": "1.2952578757459372",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "5, Haeun-daero 594beon-gil, Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48094",
+      "address_string": "5, Haeun-daero 594beon-gil, Haeundae-gu, Busan 48094 South Korea"
+    }
+  },
+  {
+    "location_id": "17819971",
+    "name": "Yipinjiangnan Chinese Restaurant",
+    "distance": "1.076215593994446",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "9, Haeundaehaebyeon-ro 298beon-gil, Haeundae-gu",
+      "street2": "2F",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48099",
+      "address_string": "9, Haeundaehaebyeon-ro 298beon-gil, Haeundae-gu 2F, Busan 48099 South Korea"
+    }
+  },
+  {
+    "location_id": "27921776",
+    "name": "Mok",
+    "distance": "0.46897778972768783",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "83 Haeundaehaebyeon-ro, Haeundae-gu",
+      "street2": "상가동 1층 114호",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48091",
+      "address_string": "83 Haeundaehaebyeon-ro, Haeundae-gu 상가동 1층 114호, Busan 48091 South Korea"
+    }
+  },
+  {
+    "location_id": "24149205",
+    "name": "Cafe Haeundae 1994",
+    "distance": "1.4101821882797558",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "620 Haeun-daero, Haeundae-gu",
+      "street2": "122",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48094",
+      "address_string": "620 Haeun-daero, Haeundae-gu 122, Busan 48094 South Korea"
+    }
+  },
+  {
+    "location_id": "33399088",
+    "name": "Gunamroast",
+    "distance": "1.4205206882640196",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "U-dong, 540-4",
+      "street2": "Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "U-dong, 540-4 Haeundae-gu, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "4784011",
+    "name": "Eobu",
+    "distance": "1.426564696351184",
+    "bearing": "east",
+    "address_obj": {
+      "street1": "540-17, U 1-dong, Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "540-17, U 1-dong, Haeundae-gu, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "16648227",
+    "name": "Home Bistro and Cafe",
+    "distance": "0.020127767890154205",
+    "bearing": "south",
+    "address_obj": {
+      "street1": "11, Jungdong 1-ro 37beon-gil, Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "48096",
+      "address_string": "11, Jungdong 1-ro 37beon-gil, Haeundae-gu, Busan 48096 South Korea"
+    }
+  },
+  {
+    "location_id": "28275870",
+    "name": "Home Bistro",
+    "distance": "0.019602035648516314",
+    "bearing": "south",
+    "address_obj": {
+      "street1": "11 Jungdong 1-ro 37beon-gil",
+      "street2": "3rd Floor",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "11 Jungdong 1-ro 37beon-gil 3rd Floor, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "3934838",
+    "name": "Caffe Bene  Haeundae Dalmotyie Store",
+    "distance": "0.03579433974499824",
+    "bearing": "southeast",
+    "address_obj": {
+      "street1": "1488-3, Jung1-dong, Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "1488-3, Jung1-dong, Haeundae-gu, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "3923205",
+    "name": "Geumsu Bokkuk Main",
+    "distance": "0.05314111392834438",
+    "bearing": "southeast",
+    "address_obj": {
+      "street1": "1394-65, Jung-dong, Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "1394-65, Jung-dong, Haeundae-gu, Busan South Korea"
+    }
+  },
+  {
+    "location_id": "4880564",
+    "name": "Geumsubokguk",
+    "distance": "0.06215329143242631",
+    "bearing": "southeast",
+    "address_obj": {
+      "street1": "Busan-si Haeundae-gu",
+      "city": "Busan",
+      "country": "South Korea",
+      "postalcode": "1394-65",
+      "address_string": "Busan-si Haeundae-gu, Busan 1394-65 South Korea"
+    }
+  },
+  {
+    "location_id": "9284112",
+    "name": "Sira Yuki",
+    "distance": "0.046933304461625726",
+    "bearing": "south",
+    "address_obj": {
+      "street1": "39, jungdong1-Ro",
+      "city": "Busan",
+      "country": "South Korea",
+      "address_string": "39, jungdong1-Ro, Busan South Korea"
+    }
+  }
+]
