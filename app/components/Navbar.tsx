@@ -1,11 +1,12 @@
-import { GiKnifeFork } from "react-icons/gi";
 import SearchBar from "./SearchBar";
+import { LuMapPin } from "react-icons/lu";
+
 
 export const Navbar = () => {
   return (
     <div className="navbar pt-5 pb-5 bg-base-100 shadow-sm border-b border-gray-100">
   <div className="flex-1">
-    <p className="btn bg-white text-black border-0 shadow-none text-xl hover:bg-gray-200">Dishcovery{<GiKnifeFork />} </p>
+    <p className="btn bg-white text-black border-0 shadow-none text-xl hover:bg-gray-200">Dishcovery{<LuMapPin />} </p>
     <SearchBar/>
   </div>
   <div className="flex gap-3 items-center">

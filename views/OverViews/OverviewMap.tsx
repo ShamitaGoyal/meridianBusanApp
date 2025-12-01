@@ -4,16 +4,18 @@ import {
   Map,
   Pin,
 } from '@vis.gl/react-google-maps';
-import { MeridianItem } from "@meridian-ui/meridian";
-import { OverviewConfig, DetailView, Overview } from "@meridian-ui/meridian";
-// import { ItemPin } from 'meridian/src/components/item-views/item-pin';
-import { useODI } from "@meridian-ui/meridian"
-import { useState } from 'react';
 import {
-  FetchedItemType,
-  ViewOptions,
+  DetailView,
   FetchedAttributeValueType,
+  FetchedItemType,
+  MeridianItem,
+  Overview,
+  OverviewConfig,
+  useODI,
+  ViewOptions,
 } from "@meridian-ui/meridian";
+// import { ItemPin } from 'meridian/src/components/item-views/item-pin';
+import { useState } from 'react';
 
 export interface OverviewMapType extends OverviewConfig {
   type: 'map';

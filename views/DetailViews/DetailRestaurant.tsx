@@ -1,9 +1,12 @@
 
-import { getAttributesByRole } from "@meridian-ui/meridian";
-import { DetailViewConfig, Role } from "@meridian-ui/meridian";
-import { FetchedItemType } from "@meridian-ui/meridian";
-import { useODI } from "@meridian-ui/meridian";
-import { Attribute } from"@meridian-ui/meridian";
+import {
+  Attribute,
+  DetailViewConfig,
+  FetchedItemType,
+  getAttributesByRole,
+  Role,
+  useODI,
+} from "@meridian-ui/meridian";
 // import 'meridian/src/components/detail-views/detail-view.scss';
 
 export interface DetailRestaurant extends DetailViewConfig {

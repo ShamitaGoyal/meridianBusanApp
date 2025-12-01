@@ -1,5 +1,4 @@
-import { isAttributeType } from "@meridian-ui/meridian"; 
-import { AttributeProps } from "@meridian-ui/meridian";
+import { AttributeProps, isAttributeType } from "@meridian-ui/meridian";
   
   export const ItemBulletListType = ({
     attribute,

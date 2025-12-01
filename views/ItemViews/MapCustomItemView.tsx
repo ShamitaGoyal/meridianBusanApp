@@ -1,8 +1,11 @@
 import React from 'react';
-import { getAttributesByRole } from "@meridian-ui/meridian";
-import { ItemViewConfig } from "@meridian-ui/meridian";
-import { FetchedItemType, ViewOptions } from "@meridian-ui/meridian";
-import { Attribute } from "@meridian-ui/meridian";
+import {
+  Attribute,
+  FetchedItemType,
+  getAttributesByRole,
+  ItemViewConfig,
+  ViewOptions,
+} from "@meridian-ui/meridian";
 
 export interface ItemResaurantType extends ItemViewConfig {
   type: 'map-restaurant';

@@ -1,4 +1,4 @@
-import { GiKnifeFork } from "react-icons/gi";
+import { LuMapPin } from "react-icons/lu";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaYoutube } from "react-icons/fa";
 import { FaFacebookSquare } from "react-icons/fa";
@@ -43,7 +43,7 @@ export const Footer = () => {
       <footer className="footer bg-base-200 text-base-content border-base-300 border-t px-10 py-4">
         <aside className="grid-flow-col items-center">
           
-          <p className="text-2xl inline-flex gap-2"> Dishcovery {<GiKnifeFork/>}</p><br/>
+          <p className="text-2xl inline-flex gap-2"> Dishcovery {<LuMapPin/>}</p><br/>
         </aside>
         <p className="text-sm -mt-7">Helping food lovers find the best bites since 2025</p>
         <nav className="md:place-self-center md:justify-self-end">

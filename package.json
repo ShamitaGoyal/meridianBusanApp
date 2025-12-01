@@ -12,11 +12,11 @@
   },
   "dependencies": {
     "@googlemaps/markerclusterer": "^2.6.2",
-    "@meridian-ui/meridian": "^1.0.5",
     "@vercel/analytics": "^1.5.0",
     "@vis.gl/react-google-maps": "^1.5.5",
     "@xyflow/react": "^12.8.4",
     "firebase": "^12.5.0",
+    "@meridian-ui/meridian": "link:../../../meridian-prerelease",
     "next": "15.4.6",
     "node-fetch": "^3.3.2",
     "react": "19.1.0",

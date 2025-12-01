@@ -12,8 +12,8 @@ importers:
         specifier: ^2.6.2
         version: 2.6.2
       '@meridian-ui/meridian':
-        specifier: ^1.0.5
-        version: 1.0.5(@types/react@19.2.7)(@vis.gl/react-google-maps@1.7.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+        specifier: link:../../../meridian-prerelease
+        version: link:../../../meridian-prerelease
       '@vercel/analytics':
         specifier: ^1.5.0
         version: 1.5.0(next@15.4.6(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(sass@1.94.2))(react@19.1.0)
@@ -613,9 +613,6 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@interactjs/types@1.10.27':
-    resolution: {integrity: sha512-BUdv0cvs4H5ODuwft2Xp4eL8Vmi3LcihK42z0Ft/FbVJZoRioBsxH+LlsBdK4tAie7PqlKGy+1oyOncu1nQ6eA==}
-
   '@jridgewell/gen-mapping@0.3.13':
     resolution: {integrity: sha512-2kkt/7niJ6MgEPxF0bYdQ6etZaA+fQvDcLKckhy1yIQOzaoKjBBjSj63/aLVjYE3qhRt5dvM+uUyfCg6UKCBbA==}
 
@@ -634,13 +631,6 @@ packages:
 
   '@jridgewell/trace-mapping@0.3.9':
     resolution: {integrity: sha512-3Belt6tdc8bPgAtbcmdtNJlirVoTmEb5e2gC94PnkwEW9jI6CAHUeoG85tjWP5WquqfavoMtMwiG4P926ZKKuQ==}
-
-  '@meridian-ui/meridian@1.0.5':
-    resolution: {integrity: sha512-9RMbBdwqzIhaOWl4hP4SSLlVz3A88D0EC2IFgC/rjo8TLXa7cN3M6aAtQzYb7eSOc2i4IxuDc0CZr/yLEuUvXg==}
-    peerDependencies:
-      '@vis.gl/react-google-maps': ^1.x.x
-      react: ^18.0.0 || ^19.0.0
-      react-dom: ^18.0.0 || ^19.0.0
 
   '@next/env@15.4.6':
     resolution: {integrity: sha512-yHDKVTcHrZy/8TWhj0B23ylKv5ypocuCwey9ZqPyv4rPdUdRzpGCkSi03t04KBPyU96kxVtUqx6O3nE1kpxASQ==}
@@ -1279,9 +1269,6 @@ packages:
 
   immutable@5.1.4:
     resolution: {integrity: sha512-p6u1bG3YSnINT5RQmx/yRZBpenIl30kVxkTLDyHLIMk0gict704Q9n+thfDI7lTRm9vXdDYutVzXhzcThxTnXA==}
-
-  interactjs@1.10.27:
-    resolution: {integrity: sha512-y/8RcCftGAF24gSp76X2JS3XpHiUvDQyhF8i7ujemBz77hwiHDuJzftHx7thY8cxGogwGiPJ+o97kWB6eAXnsA==}
 
   is-extglob@2.1.1:
     resolution: {integrity: sha512-SbKbANkN603Vi4jEZv49LeVJMn4yGwsbzZworEoyEiutsN3nJYdbO36zfhGJ6QEDpOZIFkDtnq5JRxmvl3jsoQ==}
@@ -2154,8 +2141,6 @@ snapshots:
   '@img/sharp-win32-x64@0.34.5':
     optional: true
 
-  '@interactjs/types@1.10.27': {}
-
   '@jridgewell/gen-mapping@0.3.13':
     dependencies:
       '@jridgewell/sourcemap-codec': 1.5.5
@@ -2179,17 +2164,6 @@ snapshots:
     dependencies:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.5
-
-  '@meridian-ui/meridian@1.0.5(@types/react@19.2.7)(@vis.gl/react-google-maps@1.7.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
-    dependencies:
-      '@vis.gl/react-google-maps': 1.7.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      interactjs: 1.10.27
-      react: 19.1.0
-      react-dom: 19.1.0(react@19.1.0)
-      zustand: 4.5.7(@types/react@19.2.7)(react@19.1.0)
-    transitivePeerDependencies:
-      - '@types/react'
-      - immer
 
   '@next/env@15.4.6': {}
 
@@ -2835,10 +2809,6 @@ snapshots:
   idb@7.1.1: {}
 
   immutable@5.1.4: {}
-
-  interactjs@1.10.27:
-    dependencies:
-      '@interactjs/types': 1.10.27
 
   is-extglob@2.1.1:
     optional: true
