@@ -1,3 +1,4 @@
+import Link from "next/link";
 import SearchBar from "./SearchBar";
 import { LuMapPin } from "react-icons/lu";
 
@@ -6,13 +7,13 @@ export const Navbar = () => {
   return (
     <div className="navbar pt-5 pb-5 bg-base-100 shadow-sm border-b border-gray-100">
   <div className="flex-1">
-    <p className="btn bg-white text-black border-0 shadow-none text-xl hover:bg-gray-200">Dishcovery{<LuMapPin />} </p>
+    <Link href="/" className="btn bg-white text-black border-0 shadow-none text-xl hover:bg-gray-200">Dishcovery{<LuMapPin />} </Link>
     <SearchBar/>
   </div>
   <div className="flex gap-3 items-center">
     {/* <SearchBar/> */}
-    <p className="text-sm hover:bg-gray-100 rounded-lg p-2">Restaurants</p>
-    <p className="text-sm hover:bg-gray-100 rounded-lg p-2">Hotels</p>
+    <Link href="/" className="text-sm hover:bg-gray-100 rounded-lg p-2">Restaurants</Link>
+    <Link href="/chat" className="text-sm hover:bg-gray-100 rounded-lg p-2">AI Chat</Link>
     <p className="text-sm text-nowrap hover:bg-gray-100 rounded-lg p-2">Travel Guides</p>
     <p className="text-sm hover:bg-gray-100 rounded-lg p-2">Magazine</p>
     <p className="text-sm hover:bg-gray-100 rounded-lg p-2">Favorites</p>
